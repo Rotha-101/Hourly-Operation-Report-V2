@@ -1,0 +1,5 @@
+{
+  "name": "EMS Hourly Operation Report",
+  "description": "A dark-themed, industrial-grade control room reporting tool used by utility-scale Battery Energy Storage System (BESS) operators.",
+  "requestFramePermissions": []
+}
